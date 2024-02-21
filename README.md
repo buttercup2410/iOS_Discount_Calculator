@@ -1,1 +1,1 @@
-# iOS_discount_calculator
+# iOS_Discount_Calculator
